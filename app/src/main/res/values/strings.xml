@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="tv_shows_topo">TV SHOW | Séries populares</string>
+    <string name="marvel">MARVEL | Personagens</string>
+    <string name="ok">Ok</string>
+    <string name="splash">SEJA BEM-VINDO</string>
+</resources>
